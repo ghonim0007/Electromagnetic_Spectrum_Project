@@ -1,0 +1,14 @@
+Recommendations:
+
+- Libraries used in the project:
+  - NumPy: A fundamental Python library for data processing, mathematical operations, and array handling.
+    - Link: https://numpy.org/
+  - Matplotlib: A powerful library for creating visualizations and plotting graphs.
+    - Link: https://matplotlib.org/
+
+
+- Sources used:
+  - Reference Book: **Remote Sensing and Image Interpretation** by **Lillesand & Kiefer**.
+  - You can access or read more from the book here: https://www.wiley.com/en-us/Remote+Sensing+and+Image+Interpretation%2C+7th+Edition-p-9781118457486
+
+- For more information on remote sensing and the electromagnetic spectrum, you can explore academic literature and online resources offering advanced concepts and applications.
